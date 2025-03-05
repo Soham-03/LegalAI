@@ -1,0 +1,8 @@
+streamlit==1.32.2
+weaviate-client==4.6.0
+spacy==3.7.4
+torch==2.2.1
+transformers==4.38.2
+google-generativeai==0.3.2
+regex==2024.1.16
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
